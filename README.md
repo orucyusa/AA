@@ -22,8 +22,8 @@ You can play the game in sample scene in Unity.
 ## Acknowledgments
 
 * [orucyusa](https://github.com/orucyusa)
-* 
+
 
 ## Screenshots
 
-![Image](https://orucyusa.github.io/aa/blob/master/aa-oyunu-ekran.png)
+![Image](https://orucyusa.github.io/aa/aa-oyunu-ekran.png)
